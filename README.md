@@ -1,5 +1,5 @@
 # ldc-irt
-Latent distance correlation for multi-unidimensional IRT model
+Stan code for the latent distance correlation for the multi-unidimensional IRT model.
 
 ## Stan code 
 
